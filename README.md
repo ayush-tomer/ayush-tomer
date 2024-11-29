@@ -14,20 +14,18 @@
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ayush-tomer&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayush-tomer&theme=radical&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-tomer&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
-<div align="center">
 <a href="https://github.com/ayush-tomer">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-tomer&theme=default" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-tomer&theme=default" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-tomer&theme=default" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-tomer&theme=default" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-tomer&theme=default" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-tomer&theme=default"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-tomer&theme=default" height="180em"><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-tomer&theme=default" height="180em"><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-tomer&theme=default" height="180em"><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-tomer&theme=default" height="180em"><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-tomer&theme=default" height="180em"><br>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-tomer&theme=default">
 
 # 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ayush-tomer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
