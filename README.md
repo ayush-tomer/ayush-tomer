@@ -20,7 +20,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayush-tomer&theme=radical&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-tomer&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
 <a href="https://github.com/ayush-tomer">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-tomer&theme=default" height="180em"><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-tomer&theme=default" height="180em"><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-tomer&theme=default" height="180em"><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-tomer&theme=default" height="180em"><br>
