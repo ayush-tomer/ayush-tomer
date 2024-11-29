@@ -22,7 +22,6 @@
 <a href="https://github.com/ayush-tomer">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-tomer&theme=default" height="180em"><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-tomer&theme=default" height="180em"><br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-tomer&theme=default" height="180em"><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-tomer&theme=default" height="180em"><br>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-tomer&theme=default">
 
