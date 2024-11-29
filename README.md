@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ayush-tomer&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayush-tomer&theme=radical&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-tomer&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
-![GitHub Contribution Snake](https://github.com/ayush-tomer/Snake-Animation/blob/output/github-contribution-grid-snake.svg)<br>
+![GitHub Contribution Snake](https://github.com/ayushtomer/your-repo-name/raw/output/dist/github-contribution-grid-snake.svg)<br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-tomer&theme=default" height="180em"><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-tomer&theme=default" height="180em"><br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-tomer&theme=default" height="180em"><br>
