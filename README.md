@@ -16,6 +16,7 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 # 📊GitHub Stats :
+<img src="https://raw.githubusercontent.com/ayush-tomer/ayush-tomer/output/snake.svg" alt="Snake animation"><br>
 ![](https://github-readme-stats.vercel.app/api?username=ayush-tomer&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayush-tomer&theme=radical&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-tomer&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
